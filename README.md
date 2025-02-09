@@ -21,3 +21,24 @@ Most of all, I am proud that I started and finished the project at all, because 
 I learned how to use GameMaker at a fundamental level. There are many functions within GML, and I tried utilizing the most important ones. 
 ## What's next for Everyone at the Hackathon Turned Into Zombies
 I wanted to implement features like particle effects, better animations, detailed maps, more levels, potions or food, pause menu, title and ending screens, skills, more engaging combat, and a lot more. I'm interested in expanding on these things post-hackathon, and also exploring different genres of games and multiplayer genres. Because the game was done at a very basic expectation, I felt like the game was missing a lot of depth.
+
+
+## Credits and Assets
+### Pixabay
+freesound_community https://pixabay.com/sound-effects/pixel-sound-effect-5-103221/ <br />
+freesound_community https://pixabay.com/sound-effects/090035-splatwav-91604/ <br />
+Vinodadora https://pixabay.com/sound-effects/restrained-zombie-128358/ <br />
+666HeroHero https://pixabay.com/sound-effects/slash-21834/ <br />
+
+### Music
+xDeviruchi https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack
+
+### Character
+cup_nooble https://cupnooble.itch.io/sprout-lands-asset-pack 
+
+### Sprite Assets
+LimeZu https://limezu.itch.io/moderninteriors
+LimeZu https://limezu.itch.io/modernexteriors
+
+### Misc Assets
+GameMaker Assets
