@@ -1,0 +1,1 @@
+global.tilemap_lay_id = layer_tilemap_get_id("tiles_foreground");
